@@ -1,0 +1,6 @@
+# すべてのフォルダとファイルを無視
+/*
+# .gitignore ファイル自体は無視しない
+!.gitignore
+# footBall フォルダだけを例外として管理
+!footBall/
