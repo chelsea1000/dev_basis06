@@ -1,6 +1,8 @@
-# すべてのフォルダとファイルを無視
 /*
-# .gitignore ファイル自体は無視しない
 !.gitignore
-# footBall フォルダだけを例外として管理
 !footBall/
+.test_vim.txt.swp
+README.md
+animal.php
+exit
+ql -u root -p
