@@ -1,8 +1,13 @@
+# すべてのファイルとフォルダを無視
 /*
+
+# .gitignore ファイル自体を無視しない
 !.gitignore
+
+# footBall フォルダだけを無視しない
 !footBall/
+
+# 特定のファイルを無視
 .test_vim.txt.swp
-README.md
 animal.php
-exit
-ql -u root -p
+README.md
